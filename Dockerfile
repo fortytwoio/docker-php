@@ -1,4 +1,4 @@
-## Version 1.0.0
+## Version 1.0.1
 FROM fortytwoio/base-image
 MAINTAINER Thomas Fritz <thomas.fritz@forty-two.io>
 
