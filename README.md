@@ -1,11 +1,11 @@
-docker-php-fpm
-==============
+docker-php
+==========
 
 Docker image which runs php-fpm
 
 ```
-docker pull fortytwoio/php-fpm
-docker run --name="phpfpm" -h php -d -P fortytwoio/php-fpm:latest
+docker pull fortytwoio/php
+docker run --name="php" -h php -d -P fortytwoio/php:latest
 ```
 
-Docker Hub: [fortytwoio/php-fpm](https://registry.hub.docker.com/u/fortytwoio/php-fpm/)
+Docker Hub: [fortytwoio/php](https://registry.hub.docker.com/u/fortytwoio/php/)
