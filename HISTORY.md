@@ -1,4 +1,11 @@
 
+1.0.1 / 2014-09-02
+==================
+
+ * Updated to new base image.
+ * Added sample info.php.
+ * Updated configs
+
 1.0.0 / 2014-08-25
 ==================
 
